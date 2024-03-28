@@ -4,9 +4,9 @@
 **ivotagle/ivotagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://t3.ftcdn.net/jpg/03/06/22/04/360_F_306220400_s8uZDYE0TlvepjlJ5GzXKW3ibJUYZcIH.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://t3.ftcdn.net/jpg/03/06/22/04/360_F_306220400_s8uZDYE0TlvepjlJ5GzXKW3ibJUYZcIH.jpg">
- <img alt="horizonT" src="https://t3.ftcdn.net/jpg/03/06/22/04/360_F_306220400_s8uZDYE0TlvepjlJ5GzXKW3ibJUYZcIH.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Programming-Languages-and-Software-Engineering-page-header_1920x720_1.31.2024.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Programming-Languages-and-Software-Engineering-page-header_1920x720_1.31.2024.png">
+ <img alt="horizonT" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Programming-Languages-and-Software-Engineering-page-header_1920x720_1.31.2024.png">
 </picture>
 
 A little information about me
