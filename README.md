@@ -7,10 +7,9 @@
 
 
 About me:
-- 🔭 Currently learning the basics of **Software Engineering** in the CoGrammar boot camp that started in early March 2024.
-- :robot: I’m currently learning **Python**, **Linear Algebra** and how to face those tech interviews.
+- 🤖 Currently learning the basics of **Software Engineering** in the CoGrammar boot camp that started in early March 2024.
 - 👯 I’m looking to collaborate on any project that allows me to learn more about software applications.
 - 📫 How to reach me: in all social media you can find me with the handle @ivotagle
 - ⚡ Facts: I just turned 44, and started a tech career this year.
-- :books:	 Reading: Python Crash Course (Eric Matthes, 2015) and 19Q4 (Haruki Murakami, 2009).
+- 📖	 Reading: Python Crash Course (Eric Matthes, 2015) and 19Q4 (Haruki Murakami, 2009).
 - Have two pets; Duke the 🐶 and Reggie the 🐱.
