@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Certifications
+## 🧠 Certifications and courses
 - Google Cybersecurity Certificate
 - ISC2 Certified in Cybersecurity (CC)
 - LetsDefend Switch to CyberSecurity
@@ -18,4 +18,6 @@
 ---
 
 ## 🧪 Labs & Walkthroughs
-👉 [SOC Analyst Lab](./soc-analyst-lab)
+
+- 🛡️ SOC Analyst Lab  
+  https://github.com/ivotagle/soc-analyst-lab
