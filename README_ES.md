@@ -34,4 +34,4 @@ Conseguir un rol como Analista SOC Nivel 1 y seguir creciendo en Blue Team.
 ---
 
 ## 📫 Contacto
-- LinkedIn: [(tu link)](https://www.linkedin.com/in/ivotagle/)
+- LinkedIn: [](https://www.linkedin.com/in/ivotagle/)
