@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Ivo
 
-🌍 Idioma: [English](README.md) | [Español](README_ES.md)
+🌍 Idioma: [English](README.md) | [Español](README.es.md)
 
 🎯 En transición profesional hacia Ciberseguridad (Ruta SOC Analyst)  
 📍 Ubicado en Perú  
@@ -24,8 +24,9 @@
 ---
 
 ## 🧪 Laboratorios y Prácticas
-👉 [SOC Analyst Lab](./soc-analyst-lab)
 
+- 🛡️ Laboratorio SOC Analyst  
+  https://github.com/ivotagle/soc-analyst-lab
 ---
 
 ## 🎯 Objetivo
