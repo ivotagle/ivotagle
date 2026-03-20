@@ -1,4 +1,4 @@
-🌍 Language: [English](README.md) | [Español](README_ES.md)
+🌍 Language: [English](README.md) | [Español](README.es.md)
 
 # 👋 Hi, I'm Ivo
 
